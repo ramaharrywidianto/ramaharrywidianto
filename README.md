@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ramaharrywidianto
-- 👀 I’m interested in progam,web,gemes
+- 👀 I’m interested in progam,web dan gemes
 - 🌱 I’m currently learning dasar web dan gemes
 - 📫 How to reach me @ramaharrywidianto
 
