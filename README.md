@@ -2,7 +2,7 @@
 
 <!-- Animasi Wave Pembuka -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ramaharrywidianto/ramaharrywidianto/main/assets/wave-header.svg" alt="wave animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ramaharrywidianto/ramaharrywidianto/wave-header.svg" alt="wave animation" width="100%"/>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Cybersecurity+%26+Networking+Enthusiast;Linux+%7C+Kali+%7C+OSINT;Self-Taught+%26+Lifelong+Learner+%F0%9F%93%9A;AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" width="100%"/>
@@ -197,7 +197,7 @@ Jika kamu suka dengan profil ini atau tertarik untuk berkolaborasi, jangan lupa 
 
 <!-- Animasi Wave Penutup -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ramaharrywidianto/ramaharrywidianto/main/assets/wave-footer.svg" alt="wave footer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ramaharrywidianto/ramaharrywidianto/wave-footer.svg" alt="wave footer" width="100%"/>
 </p>
 
 <p align="center">
