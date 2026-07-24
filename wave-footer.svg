@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 200" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6C63FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00D2FF;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path fill="url(#grad2)" d="M0,100 C240,50 480,150 720,100 C960,50 1200,150 1440,100 L1440,200 L0,200 Z">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite" values="
+      M0,100 C240,50 480,150 720,100 C960,50 1200,150 1440,100 L1440,200 L0,200 Z;
+      M0,90 C240,130 480,70 720,110 C960,130 1200,70 1440,120 L1440,200 L0,200 Z;
+      M0,100 C240,50 480,150 720,100 C960,50 1200,150 1440,100 L1440,200 L0,200 Z
+    " />
+  </path>
+</svg>
