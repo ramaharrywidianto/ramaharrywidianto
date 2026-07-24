@@ -2,8 +2,9 @@
 
 <!-- Animasi Wave Pembuka -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ramaharrywidianto/ramaharrywidianto/wave-header.svg" alt="wave animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ramaharrywidianto/ramaharrywidianto/main/assets/wave-header.svg" alt="wave header" width="100%"/>
 </p>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Cybersecurity+%26+Networking+Enthusiast;Linux+%7C+Kali+%7C+OSINT;Self-Taught+%26+Lifelong+Learner+%F0%9F%93%9A;AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" width="100%"/>
 
@@ -121,6 +122,11 @@ Saya percaya bahwa teknologi terbaik dipelajari dengan **membangun, mencoba, dan
 ---
 
 ## 📊 GitHub Statistics
+## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://img.shields.io/badge/✅%20Email%20Resmi-136904255%2Bramaharrywidianto%40users.noreply.github.com-333?style=flat-square&logo=github&logoColor=white&labelColor=6C63FF" alt="Email Resmi GitHub" />
+  <img src="https://img.shields.io/badge/Verified-Account-success?style=flat-square&logo=github&labelColor=00D2FF" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ramaharrywidianto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
@@ -196,8 +202,8 @@ Jika kamu suka dengan profil ini atau tertarik untuk berkolaborasi, jangan lupa 
 </p>
 
 <!-- Animasi Wave Penutup -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ramaharrywidianto/ramaharrywidianto/wave-footer.svg" alt="wave footer" width="100%"/>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/ramaharrywidianto/ramaharrywidianto/main/assets/wave-footer.svg" alt="wave footer" width="100%"/>
 </p>
 
 <p align="center">
