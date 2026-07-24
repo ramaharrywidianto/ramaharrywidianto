@@ -119,6 +119,21 @@ Saya percaya bahwa teknologi terbaik dipelajari dengan **membangun, mencoba, dan
 - ✅ Berpengalaman dalam siklus penuh proyek: **Perencanaan → Pengkodean → Pengujian → Presentasi**.
 
 ---
+## 🎓 Sertifikasi
+
+<p align="center">
+  <a href="https://freecodecamp.org/certification/ramaharrywidianto/responsive-web-design">
+    <img src="https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Responsive Web Design"/>
+  </a>
+  <a href="https://codepolitan.com/c/K9C56YU">
+    <img src="https://img.shields.io/badge/Codepolitan-Certificate_1-2D3748?style=for-the-badge&logo=codepolitan&logoColor=white" alt="Codepolitan Certificate 1"/>
+  </a>
+  <a href="https://codepolitan.com/c/Y4ZFLOD">
+    <img src="https://img.shields.io/badge/Codepolitan-Certificate_2-2D3748?style=for-the-badge&logo=codepolitan&logoColor=white" alt="Codepolitan Certificate 2"/>
+  </a>
+</p>
+
+---
 
 ## 📊 GitHub Statistics
 
