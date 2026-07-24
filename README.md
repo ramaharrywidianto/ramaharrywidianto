@@ -128,17 +128,15 @@ Saya percaya bahwa teknologi terbaik dipelajari dengan **membangun, mencoba, dan
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=ramaharrywidianto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=0" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramaharrywidianto&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=0" alt="GitHub Streak" width="48%" />
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=ramaharrywidianto&layout=compact&theme=tokyonight&cache_seconds=0" alt="Top Languages" width="45%" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+  <img src="https://vercel.app" alt="GitHub Trophy" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramaharrywidianto&theme=tokyonight&no-frame=true&row=1&column=7&cache_seconds=0" alt="GitHub Trophy" width="100%" />
-</p>
 
 ---
 
