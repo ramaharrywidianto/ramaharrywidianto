@@ -1,6 +1,11 @@
 # 👋 Halo, Saya Rama Harry Widianto
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Cybersecurity+%26+Networking+Enthusiast;Linux+%7C+Kali+%7C+OSINT;Fresh+Graduate+Siap+Berkarya+%F0%9F%9A%80" alt="Typing SVG" width="100%"/>
+<!-- Animasi Wave Pembuka -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ramaharrywidianto/ramaharrywidianto/main/assets/wave-header.svg" alt="wave animation" width="100%"/>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Cybersecurity+%26+Networking+Enthusiast;Linux+%7C+Kali+%7C+OSINT;Self-Taught+%26+Lifelong+Learner+%F0%9F%93%9A;AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" width="100%"/>
 
 <p align="center">
   <a href="https://ramaharrywidianto.my.id"><img src="https://img.shields.io/badge/Website-ramaharrywidianto.my.id-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
@@ -10,6 +15,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ramaharrywidianto&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Self_Taught-Learner-brightgreen?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Original_Repos-My_Own_Work-red?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/AI-Assisted_Learning-blue?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
@@ -18,24 +26,49 @@
 
 Saya adalah seorang **IT Enthusiast** lulusan SMK Rekayasa Perangkat Lunak (RPL) dengan pengalaman magang sebagai **Fullstack Developer**. Passion saya tidak hanya berhenti di pengembangan web; saya juga sangat tertarik dan aktif mengeksplorasi dunia **Cybersecurity**, **Networking**, dan **Linux**.
 
--   🎓 Lulusan **SMK Negeri 1 Sanden - RPL** dengan 3 tahun pengalaman proyek pengembangan software.
--   💼 Berpengalaman **5 bulan magang sebagai Fullstack Developer**, bekerja dalam tim dan menggunakan standar industri.
--   🌱 Saat ini sedang memperdalam **Next.js, API Integration, dan Cloud Computing** sambil mempersiapkan diri untuk kuliah S1.
--   🎯 Target jangka pendek: Menjadi **Junior Fullstack Developer** yang kompeten. Jangka panjang: Menjadi **Expert Fullstack IT** yang menguasai pengembangan, keamanan, dan infrastruktur jaringan.
--   🤝 Terbuka untuk **freelance kecil, kolaborasi proyek open source, dan peluang kerja**.
+- 🎓 Lulusan **SMK Negeri 1 Sanden - RPL** (Sept 2023 – Mei 2026) dengan fokus Fullstack Web Development.
+- 💼 Berpengalaman **5 bulan magang sebagai Full Stack Web Developer Intern** di, Sewon, Bantul.
+- 🤖 Sangat tertarik dengan **Artificial Intelligence (AI)** dan **Machine Learning**. Saya menggunakan AI sebagai partner belajar dan pengembangan — kami saling membantu dalam menyelesaikan proyek dan mengeksplorasi ide-ide baru.
+- 🌱 Saat ini sedang memperdalam **Next.js, API Integration, dan Cloud Computing** sambil mempersiapkan diri untuk kuliah S1.
+- 🎯 Target jangka pendek: Menjadi **Junior Fullstack Developer** yang kompeten. Jangka panjang: Menjadi **Expert Fullstack IT** yang menguasai pengembangan, keamanan, dan infrastruktur jaringan.
+- 🤝 Terbuka untuk **freelance kecil, kolaborasi proyek open source, dan peluang kerja**.
+
+---
+
+## 📖 Proses Pembelajaran Mandiri (Self-Learning Journey)
+
+Saya percaya bahwa teknologi terbaik dipelajari dengan **membangun, mencoba, dan berbagi**. Setiap repositori di akun ini adalah **hasil eksplorasi mandiri** — bukan sekadar copy-paste, melainkan:
+
+- 📚 **Belajar dari dokumentasi resmi**, tutorial, dan komunitas.
+- 🧪 **Eksperimen langsung** dengan membuat proyek nyata atau proof-of-concept.
+- 🤖 **AI sebagai Partner Belajar** — Saya memanfaatkan AI (seperti ChatGPT, GitHub Copilot) untuk diskusi teknis, debugging, dan eksplorasi solusi. Prosesnya saling melengkapi: saya belajar dari AI, dan saya juga mengarahkan AI untuk menghasilkan kode yang sesuai kebutuhan.
+- 🔄 **Iterasi dan perbaikan** berdasarkan feedback (dari diri sendiri maupun orang lain).
+- ✍️ **Mendokumentasikan proses** agar bisa dipelajari kembali dan dibagikan ke sesama pembelajar.
+- 🔒 **Semua kode di repositori ini adalah karya asli pribadi**, hasil dari proses belajar yang saya jalani sendiri.
+
+> ⚠️ **Perlu diketahui:** Semua repositori di sini **masih dalam proses belajar**, sehingga mungkin belum sempurna. Saya terus mengembangkannya seiring bertambahnya pemahaman dan kemampuan. Jadi, jangan ragu memberi masukan! 🙏
+
+> 💡 *“Belajar mandiri bukan berarti sendiri. Saya memanfaatkan sumber daya online, forum, komunitas, dan AI, tetapi hasil akhir di setiap repo adalah hasil pemikiran saya pribadi.”*
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### 🔥 Core Development
+### 🔥 Core Development pemahaman basic ingin meperdalam
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 💻 Operating Systems
+### 🚀 Sedang Mendalami
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### 💻 Operating Systems untuk pengembangan diri saya
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -49,7 +82,7 @@ Saya adalah seorang **IT Enthusiast** lulusan SMK Rekayasa Perangkat Lunak (RPL)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### ☁️ Currently Exploring (Roadmap)
+### ☁️ Currently Exploring (Roadmap kedepan)
 - **Cloud:** AWS (EC2, S3), Proxmox VE
 - **Containerization:** Docker, Kubernetes (dasar)
 - **CI/CD:** GitHub Actions
@@ -57,18 +90,33 @@ Saya adalah seorang **IT Enthusiast** lulusan SMK Rekayasa Perangkat Lunak (RPL)
 
 ---
 
-## 💼 Pengalaman & Proyek Unggulan
+## 💼 Pengalaman & Pendidikan
 
-### 🧑‍💻 Fullstack Developer Magang — 5 Bulan
--   Berkolaborasi dalam tim pengembangan untuk membangun fitur aplikasi web menggunakan **Laravel** dan **MySQL**.
--   Mengikuti alur kerja profesional: **Git untuk version control**, daily stand-up, dan sprint planning.
--   Menerapkan praktik terbaik industri seperti **penulisan kode yang bersih, dokumentasi, dan memenuhi tenggat waktu**.
+### 🧑‍💻 Full Stack Web Developer Intern — 
+**Juli 2025 – November 2025 (5 Bulan)**  
+📍 Sewon
+
+- Mengembangkan dan memelihara aplikasi web berbasis fullstack
+- Mengerjakan fitur frontend menggunakan **HTML, CSS, JavaScript, Bootstrap, dan Tailwind CSS**
+- Mengelola backend dan database menggunakan **Laravel dan MySQL**
+- Berkolaborasi dengan tim dalam pengembangan sistem
+- Melakukan testing dan debugging aplikasi
+- Menerapkan alur kerja profesional: Git untuk version control, daily stand-up, dan sprint planning dan penulisan kode yang bersih, dokumentasi, dan memenuhi batas waktu.
+
+### 🎓 Pendidikan — SMK Negeri 1 Sanden
+**September 2023 – Mei 2026**  
+📍 Jl. Samas No.KM, RW.11, Ngemplak, Srigading, Kec. Sanden, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55763  
+**Jurusan: Rekayasa Perangkat Lunak (RPL)**
+
+- Lulusan dengan fokus pada **Fullstack Web Development**
+- Memiliki pengalaman magang selama 5 bulan sebagai Full Stack Web Developer Intern
+- Berkomitmen untuk terus meningkatkan kompetensi dan berkembang sebagai Full Stack Web Developer profesional
 
 ### 🎓 Proyek SMK RPL — 3 Tahun
--   🏫 **Website Profil Sekolah** — Membangun situs informasi dinamis untuk akademik dan profil sekolah.
--   💰 **Sistem Kasir UMKM** — Mengembangkan aplikasi desktop untuk manajemen transaksi dan stok barang.
--   📚 **Aplikasi Perpustakaan** — Membuat sistem untuk manajemen buku, anggota, dan sirkulasi peminjaman.
--   ✅ Berpengalaman dalam siklus penuh proyek: **Perencanaan → Pengkodean → Pengujian → Presentasi**.
+- 🏫 **Website Profil Sekolah** — Membangun situs informasi dinamis untuk akademik dan profil sekolah.
+- 💰 **Sistem Kasir UMKM** — Mengembangkan aplikasi desktop untuk manajemen transaksi dan stok barang.
+- 📚 **Aplikasi Perpustakaan** — Membuat sistem untuk manajemen buku, anggota, dan sirkulasi peminjaman.
+- ✅ Berpengalaman dalam siklus penuh proyek: **Perencanaan → Pengkodean → Pengujian → Presentasi**.
 
 ---
 
@@ -87,13 +135,26 @@ Saya adalah seorang **IT Enthusiast** lulusan SMK Rekayasa Perangkat Lunak (RPL)
   <img src="https://github-profile-trophy.vercel.app/?username=ramaharrywidianto&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophy" width="100%" />
 </p>
 
+<!-- 🐍 Animasi Snake Kontribusi -->
+## 🐍 Animasi Kontribusi
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramaharrywidianto/ramaharrywidianto/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramaharrywidianto/ramaharrywidianto/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ramaharrywidianto/ramaharrywidianto/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
+
+> 🛠️ **Cara mengaktifkan:** Animasi di atas dihasilkan otomatis oleh GitHub Actions. Untuk menyalakannya, buat file `.github/workflows/snake.yml` di repo ini dengan konfigurasi dari [Platane/snk](https://github.com/Platane/snk). Setelah workflow berjalan, ular akan terus bergerak setiap kali grafik kontribusi diperbarui!
+
 ---
 
-## 🎯 Roadmap & Aspirasi Karir
+## 🎯 Roadmap mendatang
 
--   **Short Term (6-12 bulan):** Mendapatkan posisi sebagai **Junior Fullstack Developer**, memperdalam Next.js dan Laravel, aktif dalam proyek open source.
--   **Mid Term (1-2 tahun):** Membangun keahlian di **Cybersecurity & Networking**, meraih sertifikasi dasar (e.g., CCNA, CEH), mengerjakan proyek integrasi sistem.
--   **Long Term (3+ tahun):** Menjadi **Expert Fullstack IT** yang mampu merancang dan membangun solusi end-to-end yang aman, scalable, dan terintegrasi (Development + Cloud + Networking + Security).
+- **Short Term (6-12 bulan):** Mendapatkan posisi sebagai **Junior Fullstack Developer**, memperdalam Next.js dan Laravel, aktif dalam proyek open source.
+- **Mid Term (1-2 tahun):** Membangun keahlian di **Cybersecurity & Networking**, meraih sertifikasi dasar (e.g., CCNA, CEH), mengerjakan proyek integrasi sistem.
+- **Long Term (3+ tahun):** Menjadi **Expert Fullstack IT** yang mampu merancang dan membangun solusi end-to-end yang aman, scalable, dan terintegrasi (Development + Cloud + Networking + Security).
 
 ---
 
@@ -134,6 +195,11 @@ Jika kamu suka dengan profil ini atau tertarik untuk berkolaborasi, jangan lupa 
   <img src="https://forthebadge.com/images/badges/open-source.svg" />
 </p>
 
+<!-- Animasi Wave Penutup -->
 <p align="center">
-  <b>#Freshgraduate #SMKRPL #Laravel #NextJS #FullstackDeveloper #Cybersecurity #Networking #Linux #KaliLinux #OSINT</b>
+  <img src="https://raw.githubusercontent.com/ramaharrywidianto/ramaharrywidianto/main/assets/wave-footer.svg" alt="wave footer" width="100%"/>
+</p>
+
+<p align="center">
+  <b>#SelfTaught #OriginalWork #MasihBelajar #AIEnthusiast #Freshgraduate #SMKRPL #Laravel #NextJS #FullstackDeveloper #Cybersecurity #Networking #Linux #KaliLinux #OSINT</b>
 </p>
