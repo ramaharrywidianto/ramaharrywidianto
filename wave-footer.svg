@@ -1,15 +1,73 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 200" preserveAspectRatio="none">
   <defs>
-    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#6C63FF;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#00D2FF;stop-opacity:1" />
+    <linearGradient id="fg1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%">
+        <animate attributeName="stop-color" values="#6C63FF;#FF6B6B;#6C63FF" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%">
+        <animate attributeName="stop-color" values="#00D2FF;#FFD93D;#00D2FF" dur="6s" repeatCount="indefinite"/>
+      </stop>
     </linearGradient>
+    <linearGradient id="fg2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6C63FF" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#00D2FF" stop-opacity="0.6"/>
+    </linearGradient>
+    <linearGradient id="fg3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6C63FF" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#00D2FF" stop-opacity="0.3"/>
+    </linearGradient>
+    <path id="fWavePath" d="M0,100 C240,50 480,150 720,100 C960,50 1200,150 1440,100"/>
   </defs>
-  <path fill="url(#grad2)" d="M0,100 C240,50 480,150 720,100 C960,50 1200,150 1440,100 L1440,200 L0,200 Z">
-    <animate attributeName="d" dur="10s" repeatCount="indefinite" values="
-      M0,100 C240,50 480,150 720,100 C960,50 1200,150 1440,100 L1440,200 L0,200 Z;
-      M0,90 C240,130 480,70 720,110 C960,130 1200,70 1440,120 L1440,200 L0,200 Z;
-      M0,100 C240,50 480,150 720,100 C960,50 1200,150 1440,100 L1440,200 L0,200 Z
-    " />
+
+  <!-- Lapisan belakang -->
+  <path fill="url(#fg3)" d="M0,100 C240,50 480,150 720,100 C960,50 1200,150 1440,100 L1440,200 L0,200 Z">
+    <animate attributeName="d" dur="15s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"
+      values="
+        M0,100 C240,50 480,150 720,100 C960,50 1200,150 1440,100 L1440,200 L0,200 Z;
+        M0,120 C240,80 480,100 720,130 C960,160 1200,100 1440,80 L1440,200 L0,200 Z;
+        M0,100 C240,50 480,150 720,100 C960,50 1200,150 1440,100 L1440,200 L0,200 Z
+      "/>
   </path>
+
+  <!-- Lapisan tengah -->
+  <path fill="url(#fg2)" d="M0,100 C240,50 480,150 720,100 C960,50 1200,150 1440,100 L1440,200 L0,200 Z">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"
+      values="
+        M0,100 C240,50 480,150 720,100 C960,50 1200,150 1440,100 L1440,200 L0,200 Z;
+        M0,90 C240,130 480,70 720,110 C960,130 1200,70 1440,120 L1440,200 L0,200 Z;
+        M0,100 C240,50 480,150 720,100 C960,50 1200,150 1440,100 L1440,200 L0,200 Z
+      "/>
+  </path>
+
+  <!-- Lapisan depan -->
+  <path fill="url(#fg1)" d="M0,100 C240,50 480,150 720,100 C960,50 1200,150 1440,100 L1440,200 L0,200 Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"
+      values="
+        M0,100 C240,50 480,150 720,100 C960,50 1200,150 1440,100 L1440,200 L0,200 Z;
+        M0,80 C240,140 480,60 720,90 C960,120 1200,80 1440,110 L1440,200 L0,200 Z;
+        M0,100 C240,50 480,150 720,100 C960,50 1200,150 1440,100 L1440,200 L0,200 Z
+      "/>
+  </path>
+
+  <!-- Partikel -->
+  <circle r="5" fill="white" opacity="0.8">
+    <animateMotion dur="8s" repeatCount="indefinite">
+      <mpath href="#fWavePath"/>
+    </animateMotion>
+  </circle>
+  <circle r="3" fill="#FFD93D" opacity="0.9">
+    <animateMotion dur="8s" repeatCount="indefinite" begin="2s">
+      <mpath href="#fWavePath"/>
+    </animateMotion>
+  </circle>
+  <circle r="4" fill="#fff" opacity="0.6">
+    <animateMotion dur="8s" repeatCount="indefinite" begin="4s">
+      <mpath href="#fWavePath"/>
+    </animateMotion>
+  </circle>
+  <circle r="6" fill="#00D2FF" opacity="0.5">
+    <animateMotion dur="8s" repeatCount="indefinite" begin="6s">
+      <mpath href="#fWavePath"/>
+    </animateMotion>
+  </circle>
 </svg>
